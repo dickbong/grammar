@@ -15,6 +15,7 @@
 -changed back to "Hong Kong" (Hoping to have some kind of mechanism that changes it to Xianggang when under Chinese control.
 -changed the "New York" victory point to "New York City"
 -changed "Bogota" victory point to "Bogotá"
+-changed “Beijing” victory point to “Beiping”
 
 [h1]Changes to State Names[/h1]
 -changed "Luxemburg" state name to "Luxembourg"
@@ -26,6 +27,7 @@
 -chnaged "Trinidad" state to "Trinidad and Tobago"
 -changed "Curacao" state to "Curaçao"
 -changed "Reunion" state to "Réunion"
+-changed “Rio Grande Sul” state to “Rio Grande do Sul”
 
 [h1]Changes to Events[/h1]
 -earlier changes nullified

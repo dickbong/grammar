@@ -1,3 +1,3 @@
 Patch Notes - watermelon
 -deleted two DS.store files
--deleted gfx cause the korea flags weren't working--also contained inaccuracies
+-deleted gfx cause the Korea flags weren't working--also contained inaccuracies
