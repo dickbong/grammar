@@ -9,6 +9,7 @@
 -changed "New Persian Empire" to "Iranian Empire" ("Persia" is the westernization of "Iran")
 -changed "South Africa" to "Union of South Africa"
 -changed "Luxemburg" to "Luxembourg"
+-changed all US localisation to have "of America" ex. "United States of America" or "Communist States of America" instead of "Communist States" or "United States"
 
 [h1]Changes to Victory Points[/h1]
 -changed "Panama" victory point to "Panamá City" 
@@ -127,7 +128,10 @@ March 7.
 -nullified earlier specific event changes
 -changed event "Rally to Zog" to "Rally to [ALB.GetLeader]"
 
-Next Update - Unknown Dateß
+March 22. (v3.22)
 -updated localisation files with changes to 1.3.3
 -changed "Beijing" victory point to "Beiping"
 -changed "Rio Grande Sul" state to "Rio Grande do Sul"
+-change "Guatemala" victory point to "Guatemala City"
+-changed all US localisation to have "of America" ex. "United States of America" or "Communist States of America" instead of "Communist States" or "United States"
+-major changes to file structure allowing for better update support and reduces amount of space the mod takes up
