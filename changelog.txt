@@ -8,14 +8,15 @@
 -changed "Mongolia" to "Mongolian People's Republic"
 -changed "New Persian Empire" to "Iranian Empire" ("Persia" is the westernization of "Iran")
 -changed "South Africa" to "Union of South Africa"
+-changed "Luxemburg" to "Luxembourg"
 
 [h1]Changes to Victory Points[/h1]
--changed "Panama" victory point to "Panama City" 
+-changed "Panama" victory point to "Panamá City" 
 -changed "Luxemburg" victory point to "Luxembourg City"
--changed back to "Hong Kong" (Hoping to have some kind of mechanism that changes it to Xianggang when under Chinese control.
 -changed the "New York" victory point to "New York City"
 -changed "Bogota" victory point to "Bogotá"
 -changed “Beijing” victory point to “Beiping”
+-changed "Guatemala" victory point to "Guatemala City" 
 
 [h1]Changes to State Names[/h1]
 -changed "Luxemburg" state name to "Luxembourg"
@@ -24,7 +25,7 @@
 -changed "Guangzhouwan" to "Kouang-Tchéou-Wan" (Kouang-Tchéou-Wan is the offical name)
 -changed "Taiwan" to "Formosa" (In the Treaty of Shimonoseki, where Taiwan is ceeded to Japan, the island is stated as Formosa. Maps from the era also show it as Formosa.)
 -changed "Comoro Islands" state to "Comoros Islands"
--chnaged "Trinidad" state to "Trinidad and Tobago"
+-changed "Trinidad" state to "Trinidad and Tobago"
 -changed "Curacao" state to "Curaçao"
 -changed "Reunion" state to "Réunion"
 -changed “Rio Grande Sul” state to “Rio Grande do Sul”
@@ -45,14 +46,10 @@
 
 [h1]Changes to Misc.[/h1]
 -changed "Josif Stalin" to "Joseph Stalin" in "Stalingrad Class" description
--added flags for Fascist Korea and Communist Korea. (The communist flag is the flag of North Korea, and the fascist flag has the blue replaced with full red, signifying the Rising Sun of Imperialist Japan)
+[strike]-added flags for Fascist Korea and Communist Korea. (The communist flag is the flag of North Korea, and the fascist flag has the blue replaced with full red, signifying the Rising Sun of Imperialist Japan) [/strike]
 -changed "Josef Stalin" to "Joseph Stalin" in "Project 66" Description
 -added an easter egg ;)
 -changed "Location is originally owned by $TAG$$OWNED|H$." tooltip to "Location was originally owned by $TAG$$OWNED|H$." in the core_l_english.yml
-
-[h1]NULL Changes[/h1]
-NULL-changed "Hong Kong" to "Xianggang" ("Hong Kong" is the westernization of "Xianggang")
-NULL-changed "Neo-Ottoman Empire" to "Turkish Nationalist Emirate" (The "Neo-Ottoman Empire" is incorrect as there is not an Ottoman in charge, just a dictator.)
 
 
 [h1]Changelog[/h1]
@@ -130,5 +127,7 @@ March 7.
 -nullified earlier specific event changes
 -changed event "Rally to Zog" to "Rally to [ALB.GetLeader]"
 
-March 19.
+Next Update - Unknown Dateß
 -updated localisation files with changes to 1.3.3
+-changed "Beijing" victory point to "Beiping"
+-changed "Rio Grande Sul" state to "Rio Grande do Sul"

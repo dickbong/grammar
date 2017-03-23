@@ -1,0 +1,12 @@
+﻿l_english:
+
+ italy.1.t:0 "Albania Yields"
+ italy.1.d:0 "The Albanian authorities have agreed to our demands, and [ALB.GetLeader] has been forced to abdicate. From now and until the end of time, Albania shall be Italian!"
+ italy.1.a:0 "A glorious day."
+ italy.2.t:0 "[ALB.GetLeader] Rejects the Ultimatum"
+ italy.2.d:0 "Defiant to the last, [ALB.GetLeader] has rejected our ultimatum. He and his advisors are now trying to scrape together whatever pitiful defenses Albania can muster. We must occupy Tirana and put an end to this farce!"
+ italy.2.a:0 "We could have done this the easy way, [ALB.GetLeader]!"
+ italy.3.t:0 "Italian Ultimatum"
+ italy.3.d:0 "Italian diplomats have presented an ultimatum to us demanding that we submit to their occupation! Albania is to be ruled in a personal union under the Italian king!"
+ italy.3.a:0 "We must submit."
+ italy.3.b:0 "It shall not come to pass! Rally to [ALB.GetLeader]!"
