@@ -18,6 +18,8 @@
 -changed "Bogota" victory point to "Bogotá"
 -changed “Beijing” victory point to “Beiping”
 -changed "Guatemala" victory point to "Guatemala City" 
+-changed "Nanjing" victory point to "Nanking"
+-changed "Chongqing" victory point to "Chungking"
 
 [h1]Changes to State Names[/h1]
 -changed "Luxemburg" state name to "Luxembourg"
@@ -30,6 +32,7 @@
 -changed "Curacao" state to "Curaçao"
 -changed "Reunion" state to "Réunion"
 -changed “Rio Grande Sul” state to “Rio Grande do Sul”
+-changed "Ostpreussen" state to "Ostpreußen"
 
 [h1]Changes to Events[/h1]
 -earlier changes nullified
@@ -135,3 +138,10 @@ March 22. (v3.22)
 -change "Guatemala" victory point to "Guatemala City"
 -changed all US localisation to have "of America" ex. "United States of America" or "Communist States of America" instead of "Communist States" or "United States"
 -major changes to file structure allowing for better update support and reduces amount of space the mod takes up
+
+Date TBD
+-changed "Ostpreussen" state to "Ostpreußen"
+-changed "Nanjing" victory point to "Nanking"
+-changed "Chongqing" victory point to "Chungking"
+
+ Copyright 2017 Dick Bong, Ace of Aces
