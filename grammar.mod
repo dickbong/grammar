@@ -1,4 +1,4 @@
-name="Correct Grammar and Historical Technicalities Dev Build"
+﻿name="Correct Grammar and Historical Technicalities Dev Build"
 path="mod/grammar/"
 tags={
 	"Fixes"
