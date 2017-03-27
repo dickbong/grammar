@@ -50,8 +50,8 @@
 
 [h1]Changes to Misc.[/h1]
 -changed "Josif Stalin" to "Joseph Stalin" in "Stalingrad Class" description
-[strike]-added flags for Fascist Korea and Communist Korea. (The communist flag is the flag of North Korea, and the fascist flag has the blue replaced with full red, signifying the Rising Sun of Imperialist Japan) [/strike]
 -changed "Josef Stalin" to "Joseph Stalin" in "Project 66" Description
+[strike]-added flags for Fascist Korea and Communist Korea. (The communist flag is the flag of North Korea, and the fascist flag has the blue replaced with full red, signifying the Rising Sun of Imperialist Japan) [/strike]
 -added an easter egg ;)
 -changed "Location is originally owned by $TAG$$OWNED|H$." tooltip to "Location was originally owned by $TAG$$OWNED|H$." in the core_l_english.yml
 
@@ -144,5 +144,5 @@ Date TBD
 -changed "Nanjing" victory point to "Nanking"
 -changed "Chongqing" victory point to "Chungking"
 -took "the" off of faction names
-
+-fixed the coding so changes actually show up
  Copyright 2017 Dick Bong, Ace of Aces

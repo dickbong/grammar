@@ -820,7 +820,7 @@
  FOCUS_STATUS_COMPLETED_TOOLTIP:0 "§GCompleted§!"
  FOCUS_STATUS_INPROGRESS_TOOLTIP:0 "Completion Time: $DAYS|0H$ days. ($LEFT|0H$ days left)"
  PROVINCE_CONTROL_TOOLTIP:0 "$TAG$$CONTROL|H$ controls this location in $NAME|H$."
- PROVINCE_OWNED_TOOLTIP:0 "Location is originally owned by $TAG$$OWNED|H$."
+ #PROVINCE_OWNED_TOOLTIP:0 "Location is originally owned by $TAG$$OWNED|H$."
  PROVINCE_VP_TOOLTIP:0 "$NAME|Y$ is worth $VALUE|G$ £victory_points  Victory Point(s)."
  PROVINCE_PORT_TOOLTIP:0 "There is a §HNaval base§! in this province."
  PROVINCE_PORT_TOOLTIP_LEVEL:0 "There is a §HNaval base§! level $LEVEL|H$ in this province."
