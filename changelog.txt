@@ -10,6 +10,8 @@
 -changed "South Africa" to "Union of South Africa"
 -changed "Luxemburg" to "Luxembourg"
 -changed all US localisation to have "of America" ex. "United States of America" or "Communist States of America" instead of "Communist States" or "United States"
+-changed "German Reich" to "Nazi Germany"
+-changed "Soviet Union" to "U.S.S.R."
 
 [h1]Changes to Victory Points[/h1]
 -changed "Panama" victory point to "Panamá City" 
@@ -139,10 +141,16 @@ March 22. (v3.22)
 -changed all US localisation to have "of America" ex. "United States of America" or "Communist States of America" instead of "Communist States" or "United States"
 -major changes to file structure allowing for better update support and reduces amount of space the mod takes up
 
-Date TBD
+March 27. (v3.27)
 -changed "Ostpreussen" state to "Ostpreußen"
 -changed "Nanjing" victory point to "Nanking"
 -changed "Chongqing" victory point to "Chungking"
 -took "the" off of faction names
 -fixed the coding so changes actually show up
+
+March 28. (v3.28)
+-fixed "Germany" localisation error
+-changed "German Reich" to "Nazi Germany"
+-changed "Soviet Union" to "U.S.S.R."
+
  Copyright 2017 Dick Bong, Ace of Aces
