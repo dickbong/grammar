@@ -35,6 +35,7 @@
 -changed "Reunion" state to "Réunion"
 -changed “Rio Grande Sul” state to “Rio Grande do Sul”
 -changed "Ostpreussen" state to "Ostpreußen"
+-changed "Galapagos Islands" state to "Galápagos Islands"
 
 [h1]Changes to Events[/h1]
 -earlier changes nullified
@@ -152,5 +153,9 @@ March 28. (v3.28)
 -fixed "Germany" localisation error
 -changed "German Reich" to "Nazi Germany"
 -changed "Soviet Union" to "U.S.S.R."
+
+Date TBD
+-changed "Galapagos Islands" state to "Galápagos Islands"
+-fixed umlaut on "Nendö"
 
  Copyright 2017 Dick Bong, Ace of Aces

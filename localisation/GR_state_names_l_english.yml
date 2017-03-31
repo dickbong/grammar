@@ -2,7 +2,7 @@
  STATE_8:0 "Luxembourg"
  STATE_5:0 "Ostpreußen"
  STATE_286:1 "French Cochinchina"
- STATE_734:0 "Nendo"
+ STATE_734:0 "Nendö"
  STATE_728:0 "Kouang-Tchéou-Wan"
  STATE_524:0 "Formosa"
  STATE_708:0 "Comoros Islands"
@@ -10,3 +10,4 @@
  STATE_695:0 "Curaçao"
  STATE_706:0 "Réunion"
  STATE_502:0 "Rio Grande do Sul"
+ STATE_649:0 "Galápagos Islands"
