@@ -1,0 +1,74 @@
+[h1]Changelog[/h1] (Pre-Github)
+
+[u]Feb 9.[/u]
+-changed "Novus Imperium Romanum" to "Novum Imperium Romanum"
+-changed "Sinkiang to Xinjiang"
+-changed "Josif Stalin" to "Joseph Stalin" in "Stalingrad Class" description
+
+[u]Feb 10.[/u]
+-added flags for Fascist Korea and Communist Korea. (The communist flag is the flag of North Korea, and the fascist flag has the blue replaced with full red, signifying the Rising Sun of Imperialist Japan)
+-changed Tannu Tuva to its proper communist name, Tuvan People's Republic
+-corrected sentence "Madrid is ours again and we have the opportunity to make the age old city the center of Spain once again." to "Madrid is ours and we have opportunity to make the age old city the center of Spain again."
+-added oxford comma to "Germany has seen fit to thwart our modest, fair[,] and reasonable demands for Vichy territory. Should we leave [From.GetFactionName]?"
+-changed "Germany has seen the wisdom of supporting our demands for Vichy territory. Vichy has surrendered Savoy and Corsica to us." to "Germany has realized the benefits of supporting our demands for Vichy territory. Vichy has surrendered Savoy and Corsica to us."
+-changed "Josef Stalin" to "Joseph Stalin" in "Project 66" Description
+-added an easter egg ;)
+-changed "Chinese United Front" to the more proper "The Second United Front"
+
+[u]Feb 11.[/u]
+-changed "Algerie France" to "Algérie Française" ("Algérie Française" means Algiers of a French kind in French; "Algerie France" is a French then English word.)
+
+[u]Feb 12.[/u]
+-changed "Luxemburg" victory point to "Luxembourg City"
+
+[u]Feb 13.[/u]
+-changed "Panama" victory point to "Panama City" 
+-changed "The German Foreign Ministry have proposed..." event description to "The German Foreign Ministry has proposed"
+-changed "This treaty will greatly increase our mutual trade," event description to "The treaty will increase our mutual trade substantially,"
+-changed "Poland is ours, but the eastern parts fall under the Soviet sphere of influence according to the stipulations of the Molotov-Ribbentrop Pact. Should we withdraw our forces and let the Soviets occupy this territory? Failure to do so would render our treaty void." event description to "Poland is ours, but the eastern lands fall under Soviet control according to the conditions of the Molotov-Ribbentrop Pact. Should we withdraw our forces and let the Soviets occupy the territory? Failure to do so would render our treaty void."
+
+[u]Feb 14.[/u]
+-changed thumbnail
+-changed "Although we have escaped certain defeat through the Long March, the nationalists are not planning to let us grow stronger without more confrontations." event description to "Although we have escaped certain defeat through the Long March, the nationalists are not planning to let us grow stronger."
+-changed "Luxemburg" state name to "Luxembourg"
+
+[u]Feb 15.[/u]
+-changed "Mongolia" to "Mongolian People's Republic"
+
+[u]Feb 16.[/u]
+-changed "New Persian Empire" to "Iranian Empire" ("Persia" is the westernization of "Iran")
+NULL-changed "Hong Kong" to "Xianggang" ("Hong Kong" is the westernization of "Xianggang")
+-changed back to "Hong Kong" (Hoping to have some kind of mechanism that changes it to Xianggang when under Chinese control.
+-changed all instances of "Adolf Hitler" and "Hitler" in events_l_english.txt to "[GER.GetLeader]"
+
+[u]Feb 16.[/u]
+-changed the "New York" victory point to "New York City"
+NULL-changed "Neo-Ottoman Empire" to "Turkish Nationalist Emirate" (The "Neo-Ottoman Empire" is incorrect as there is not an Ottoman in charge, just a dictator.)
+-changed "Southern Indochina" state name to "French Cochinchina" Southern Indochina is mainly incompassed by Cochinchina, with also parts of Annam. However in HOI4 the entire state of Annam is nonexistant with the northern portion being merged with Tonkin.
+-changed "Nendo" to "Nendö"
+-changed "Guangzhouwan" to "Kouang-Tchéou-Wan" (Kouang-Tchéou-Wan is the offical name)
+-changed "Taiwan" to "Formosa" (In the Treaty of Shimonoseki, where Taiwan is ceeded to Japan, the island is stated as Formosa. Maps from the era also show it as Formosa.)
+
+Feb 20.
+Sorry for taking that little siesta... Now back to the Updates!
+-changed "Location is originally owned by $TAG$$OWNED|H$." tooltip to "Location was originally owned by $TAG$$OWNED|H$." in the core_l_english.yml
+-fixed a spelling error in changelog/localisation
+-changed "French Entente Alliance" to "The French Entente"
+
+Feb 23.
+-changed "South Africa" to "Union of South Africa"
+-changed "Comoro Islands" state to "Comoros Islands"
+-changed "Trinidad" state to "Trinidad and Tobago"
+-changed "Bogota" victory point to "Bogotá"
+-changed "Curacao" state to "Curaçao"
+-changed "Reunion" state to "Réunion"
+
+Mar 2.
+-changed "San Jose" to "San José"
+-changed "Beijing" to "Beiping" (This is what it was called by the KMT because Nanjing was the capital.)
+-changed "Rio Grande Sul" to "Rio Grando Sul" (Rio Grande Sul is Rio Grande South while Rio Grando Sul is Rio Grande of the South.)
+
+March 7.
+-fixed errors with events
+-nullified earlier specific event changes
+-changed event "Rally to Zog" to "Rally to [ALB.GetLeader]"
