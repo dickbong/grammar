@@ -36,6 +36,20 @@
 -changed “Rio Grande Sul” state to “Rio Grande do Sul”
 -changed "Ostpreussen" state to "Ostpreußen"
 -changed "Galapagos Islands" state to "Galápagos Islands"
+-changed "Ile de France" state to Île de France"
+-changed "Rhone" state to "Rhône"
+-changed "Midi Pyrenees" to "Midi-Pyrénées"
+-changed "Sjaelland" to "Sjælland"
+-changed "Franken" to "Franconia"
+-changed "Hessen" to "Hesse"
+-changed "Westfalen" to "Westphalia"
+-changed "Hannover" to "Hanover"
+-changed "Thüringen" to "Thuringia"
+-changed "Pommern" to "Pomerania"
+-changed "Hinterpommern" to "Farther Pomerania"
+-changed "Sachsen" to "Saxony"
+-changed "Niederschlesien" to "Lower Silesia"
+-changed "Oberschlesien" to "Upper Silesia"
 
 [h1]Changes to Events[/h1]
 -earlier changes nullified
@@ -157,5 +171,24 @@ March 28. (v3.28)
 Date TBD
 -changed "Galapagos Islands" state to "Galápagos Islands"
 -fixed umlaut on "Nendö"
+-changed "Ile de France" state to Île de France"
+-changed "Rhone" state to "Rhône"
+-changed "Pas de Calais" state to "Pas-de-Calais"
+-changed "Midi Pyrenees" to "Midi-Pyrénées"
+-changed "Sjaelland" to "Sjælland"
+-changed "Franken" to "Franconia"
+-changed "Hessen" to "Hesse"
+-changed "Oberbayern" state to "Upper Bavaria"
+-changed "Niederbayern" state to "Lower Bavaria"
+-changed "Franken" state to "Franconia"
+-changed "Hessen" to "Hesse"
+-changed "Westfalen" to "Westphalia"
+-changed "Hannover" to "Hanover"
+-changed "Thüringen" to "Thuringia"
+-changed "Pommern" to "Pomerania"
+-changed "Hinterpommern" to "Farther Pomerania"
+-changed "Sachsen" to "Saxony"
+-changed "Niederschlesien" to "Lower Silesia"
+-changed "Oberschlesien" to "Upper Silesia"
 
  Copyright 2017 Dick Bong, Ace of Aces
