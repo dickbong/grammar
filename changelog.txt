@@ -12,6 +12,8 @@
 -changed all US localisation to have "of America" ex. "United States of America" or "Communist States of America" instead of "Communist States" or "United States"
 -changed "German Reich" to "Nazi Germany"
 -changed "Soviet Union" to "U.S.S.R."
+-changed the adjective for the ROC and PRC to "Sino"
+-changed "Siam" (neutrality, democracy) to "Thailand" (Siam changed their name to Thailand in 1939, but in 1942, when they sided with the Japanese, the Allies did not accept the name.)
 
 [h1]Changes to Victory Points[/h1]
 -changed "Panama" victory point to "Panamá City" 
@@ -22,6 +24,16 @@
 -changed "Guatemala" victory point to "Guatemala City" 
 -changed "Nanjing" victory point to "Nanking"
 -changed "Chongqing" victory point to "Chungking"
+-changed "Poznan" victory point to "Poznań"
+-changed "Lodz" victory point to "Łódź"
+-changed "Lwow" victory point to "Lwów"
+-changed "Plzen" victory point to "Plzeň" 
+-changed "Kosice" victory point to "Košice" 
+-changed "Pecs" victory point to "Pécs" 
+-changed "Gent" victory point to "Ghent"
+-changed "Antwerpen" victory point to "Antwerp"
+-changed "Dunkerque" victory point to "Dunkirk"
+-changed "Orleans" victory point to "Orléans"
 
 [h1]Changes to State Names[/h1]
 -changed "Luxemburg" state name to "Luxembourg"
