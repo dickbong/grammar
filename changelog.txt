@@ -144,4 +144,11 @@ April 2. (v4.2) (European Cities, Asian Names)
 -changed "Dunkerque" victory point to "Dunkirk"
 -changed "Orleans" victory point to "Orléans"
 
+Date TBD
+-fixed Siam and Mongolia (new names not showing up)
+-changed "Dunkirk" victory point back to "Dunkerque"
+-changed "Besancon" victory point to "Besançon"
+-changed "Brasov" victory point to "Brașov"
+-changed "Liége" victory point to "Liège"
+-changed "Coruna" victory point to "A Coruña"
  Copyright 2017 Dick Bong, Ace of Aces
