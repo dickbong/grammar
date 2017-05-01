@@ -50,20 +50,20 @@
  STATE_49:0 "Ankara"
  STATE_50:0 "Württemberg"
  STATE_51:0 "Rhineland"
- #STATE_52:0 "Oberbayern"
- #STATE_53:0 "Niederbayern"
- #STATE_54:0 "Franken"
- #STATE_55:0 "Hessen"
+ STATE_52:0 "Oberbayern" #changed back
+ STATE_53:0 "Niederbayern" #changed back
+ STATE_54:0 "Franken" #changed back
+ STATE_55:0 "Hessen" #changed back
  STATE_56:0 "Weser-Ems"
- #STATE_57:0 "Westfalen"
+ STATE_57:0 "Westfalen" #changed back
  STATE_58:0 "Schleswig-Holstein"
- #STATE_59:0 "Hannover"
+ STATE_59:0 "Hannover" #changed back
  STATE_60:0 "Thüringen"
  STATE_61:0 "Mecklenburg"
- #STATE_62:0 "Pommern"
- #STATE_63:0 "Hinterpommern"
+ STATE_62:0 "Pommern" #changed back
+ STATE_63:0 "Hinterpommern" #changed back
  STATE_64:0 "Brandenburg"
- #STATE_65:0 "Sachsen"
+ STATE_65:0 "Sachsen" #changed back
  STATE_66:0 "Niederschlesien"
  STATE_67:0 "Oberschlesien"
  STATE_68:0 "Ostmark"
