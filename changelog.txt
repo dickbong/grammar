@@ -173,6 +173,10 @@ Date TBD
 -changed "Tibet" to "Kingdom of Tibet" (1912-1951.) 
 -changed "Iraq" to "Kingdom of Iraq" (1932-1958.) 
 -changed "Portugal" to "Estado Novo" the Estado Novo or the Second Republic, was the corporatist authoritarian regime installed in Portugal in 1933. It evolved from the Ditadura Nacional formed after the coup d'état of 28 May 1926 against the democratic and unstable First Republic. Together, the Ditadura Nacional and Estado Novo are recognised as the Second Portuguese Republic. The Estado Novo, greatly inspired by conservative and authoritarian ideologies, was developed by António de Oliveira Salazar, ruler of Portugal from 1932 to 1968, when he fell ill and was replaced by Marcelo Caetano.
+-changed "Afghanistan" to "Kingdom of Afghanistan" (1926-1973). 
+-changed "Czechloslovakia" to "Czechoslovak Socialist Republic" (1948–1990.) 
+-changed "Denmark, Sweden, and Norway" to "Kingdoms of (insert name here.)" -changed "Korea" to "Republic of Korea" (As the democratic south is known as). 
+-changed "Liberia" to "Republic of Liberia" (Official title.)
+-changed Nepal to "Kingdom of Nepal" (1923–2008) and democratic to "Federal Democratic Republic of Nepal" (2008-present.)
 
-Change neutral Afghanistan to "Kingdom of Afghanistan" (1926-1973). Change communist Czechloslovakia to "Czechoslovak Socialist Republic" (1948–1990). Rename democratic Denmark, Sweden, and Norway to "Kingdoms of (insert name here)". Rename democratic Korea to "Republic of Korea" (As the democratic south is known as). Rename democratic Liberia to "Republic of Liberia" (Official title). Rename Nepal to "Kingdom of Nepal" (1923–2008) and democratic to "Federal Democratic Republic of Nepal" (2008-present).
  Copyright 2017 Dick Bong, Ace of Aces
