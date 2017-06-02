@@ -145,38 +145,42 @@ April 2. (v4.2) (European Cities, Asian Names)
 -changed "Orleans" victory point to "Orléans"
 
 Date TBD
+-reorganized entire mod files.
 -fixed Siam and Mongolia (new names not showing up)
 -changed "Dunkirk" victory point back to "Dunkerque"
 -changed "Besancon" victory point to "Besançon"
 -changed "Brasov" victory point to "Brașov"
 -changed "Liége" victory point to "Liège"
 -changed "Coruna" victory point to "A Coruña"
--changed "Yugoslavia" to "Kingdom of Yougoslavia" as from 1918–1945 that was their official title. 
--changed "SFR Yugoslavia" to "Socialist Federal Republic of Yugoslavia" 
--changed "Spain" to "The Spanish Republic". 
+-changed "Yugoslavia" to "Kingdom of Yugoslavia" (as from 1918–1945 that was their official title.)
+-changed "SFR Yugoslavia" to "S.F.R. Yugoslavia" 
+-changed "Spain" to "Second Spanish Republic"
 -changed "Switzerland" to "Swiss Confederation" 
--changed "Austria" to "Federal State of Austria" as it was known from 1934–1938.
--changed democratic Czechloslovakia to "Czechoslovak Republic" (as it was know from 1918-1938). 
--changed "Hungary" to "Kingdom of Hungary" as it was known from 1920–1946. 
--changed democratic "Ethiopia" to "Federal Democratic Republic of Ethiopia" (modern day name) and changed neutral "Ethiopia" to "Abyssinia" as it was known at the time. 
--changed fascist Japan to "Empire of Japan" (as it was known from 1869-1947) and changed democratic "Japan" to "Japan" (as it is known today). 
--Rename "Bulgaria" to "Kingdom of Bulgaria" as it was known at the times. Also Tsar Boris III was not a constitutional monarch.
--changed "Socialist Republic of Bulgaria" to "People's Republic of Bulgaria" as it was known at the end of WW2.
--changed "Albania" to "Kingdom of Albania" (1928–1939). 
--changed "Greece" to "4th of August Regime" or the less formal "Metaxas Regime" (1936-1941), and "National Union of Greece" to "Hellenic State" (1941-1944). 
+-changed "Austria" to "Federal State of Austria" (as it was known from 1934–1938)
+-changed democratic Czechloslovakia to "Czechoslovak Republic" (as it was know from 1918-1938)
+-changed "Hungary" to "Kingdom of Hungary" (as it was known from 1920–1946) 
+-changed neutral "Ethiopia" to "Abyssinia" (as it was known at the time) 
+-changed fascist Japan to "Empire of Japan" (as it was known from 1869-1947) and changed "State of Japan" to "Japan" (as it is known today)
+-changed "Bulgaria" to "Kingdom of Bulgaria" (as it was known at the times, also Tsar Boris III was not a constitutional monarch)
+-changed "Socialist Republic of Bulgaria" to "People's Republic of Bulgaria" (as it was known at the end of WW2)
+-changed "Albania" to "Kingdom of Albania" (1928–1939).
+-changed "Greece" to "Kingdom of Greece" and "National Union of Greece" to "Hellenic State" (1941-1944). 
 -changed "France" to "French Third Republic" (1870-1940) and "French Commune" to "Communauté Française"
--changed democratic Australia to "Commonwealth of Australia" as they've been know for a long time. 
--changed "Yemen" to "Hashemite Mutawakkilite Kingdom" (1918-1962.) -changed "Oman" to "Sultanate of Muscat and Oman" (1820-1970.)
--changed "Ireland" to "Republic of Ireland " As they've been know for a long time. 
--changed "Latvian People's Republic" to "Latvian S.S.R." (1940–1941 and 1944–1990). 
--changed "Bhutan" to "Kingdom of Bhutan" as its been known since its establishment. 
--changed "Tibet" to "Kingdom of Tibet" (1912-1951.) 
--changed "Iraq" to "Kingdom of Iraq" (1932-1958.) 
--changed "Portugal" to "Estado Novo" the Estado Novo or the Second Republic, was the corporatist authoritarian regime installed in Portugal in 1933. It evolved from the Ditadura Nacional formed after the coup d'état of 28 May 1926 against the democratic and unstable First Republic. Together, the Ditadura Nacional and Estado Novo are recognised as the Second Portuguese Republic. The Estado Novo, greatly inspired by conservative and authoritarian ideologies, was developed by António de Oliveira Salazar, ruler of Portugal from 1932 to 1968, when he fell ill and was replaced by Marcelo Caetano.
--changed "Afghanistan" to "Kingdom of Afghanistan" (1926-1973). 
--changed "Czechloslovakia" to "Czechoslovak Socialist Republic" (1948–1990.) 
--changed "Denmark, Sweden, and Norway" to "Kingdoms of (insert name here.)" -changed "Korea" to "Republic of Korea" (As the democratic south is known as). 
--changed "Liberia" to "Republic of Liberia" (Official title.)
--changed Nepal to "Kingdom of Nepal" (1923–2008) and democratic to "Federal Democratic Republic of Nepal" (2008-present.)
-
+-changed democratic Australia to "Commonwealth of Australia" (current)
+-changed "Yemen" to "Hashemite Mutawakkilite Kingdom" (1918-1962) 
+-changed "Oman" to "Sultanate of Muscat and Oman" (1820-1970)
+-changed "Bhutan" to "Kingdom of Bhutan" (as its been known since its establishment)
+-changed "Tibet" to "Kingdom of Tibet" (1912-1951) 
+-changed "Iraq" to "Kingdom of Iraq" (1932-1958) 
+-changed "Afghanistan" to "Kingdom of Afghanistan" (1926-1973)
+-changed "Czechloslovak Union" to "Czechoslovak Socialist Republic" (1948–1990) 
+-changed "Denmark, Sweden, and Norway" to "Kingdoms of (insert name here)" 
+-changed "Liberia" to "Republic of Liberia" (Official title)
+-changed Nepal to "Kingdom of Nepal" (1923–2008) and democratic to "Federal Democratic Republic of Nepal" (2008-present)
+-changed "Polish Republic" to "Republic of Poland" (Current)
+-changed "People's Republic of China" to "Communist China"
+-changed "Resurrectionist Ireland" to "Irish Corporate State" (PDX mixed up two fascist parties within Ireland)
+-changed "Kiwi Empire" to "Nationalist New Zealand"
+-changed Indian adjectives from "British Indian
+"
  Copyright 2017 Dick Bong, Ace of Aces
