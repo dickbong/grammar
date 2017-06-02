@@ -183,4 +183,13 @@ June 1. (v6.01) (Kingdom Release)
 -changed "Kiwi Empire" to "Nationalist New Zealand"
 -changed Indian adjectives from "British Indian"
 
+DATE TBD (East Asia Update)
+-changed Yemen for real
+-changed "Xibei San Ma" to "Ma Clique" (called at time)
+-changed "Shanxi" to "Shanxi Clique" (called at time)
+-changed "Yunnan" to "Yunnan Clique" (called at time)
+-changed "Mengkukuo" to "Mengjiang United Autonomous Government" (official)
+-changed "Free Democratic People's Republic of Manchukuo" to "Free Democratic People's Republic of Manchuria" (Manchukuo's the fascist name)
+-changed "Korea" to "Republic of Korea" (current)
+
  Copyright 2017 Dick Bong, Ace of Aces
